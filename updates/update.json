@@ -1,0 +1,15 @@
+{
+  "homepage": "https://mcreator.net/modification/83164/destination-craft",
+  "1.17.1": {
+    "2.0.0": "Recreated the script to work better. \nAdded elevator stop block. \nAdd Button Block. \nButton Blocks are now used for (call buttons, up buttons, and down buttons). \nAdded elevator door. \nAdded elevator door panels (iron, oak, spruce, birch, jungle, acacia, dark oak, crimson, and warped). \nAdded elevator door windows (iron, oak, spruce, birch, jungle, acacia, dark oak, crimson, and warped). \nAdded copper frquency selector item. \nAdded recipes for (button blocks, elevator door, elevator door frame, elevator stop). \nElevators now travel directly to the floor when the call button is pressed."
+  },
+  "1.16.5": {
+    "1.0.0": "Added up buttom \nAdded down button \nAdded elevator motor \nAdded elevator stop \nAdded elevator mechanics."
+  },
+  "promos": {
+    "1.17.1-latest": "2.0.0",
+    "1.17.1-recommended": "2.0.0",
+    "1.16.5-latest": "1.0.0",
+    "1.16.5-recommended": "1.0.0"
+  }
+}
